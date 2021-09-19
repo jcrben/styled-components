@@ -1,6 +1,6 @@
 {
   "name": "styled-components-jcrben",
-  "version": "5.3.3",
+  "version": "5.3.4",
   "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress",
   "main": "dist/styled-components.cjs.js",
   "jsnext:main": "dist/styled-components.esm.js",
@@ -124,5 +124,6 @@
   },
   "engines": {
     "node": ">=10"
-  }
+  },
+  "gitHead": "b91d0b8d3f56af51faf70b8ee5fc30409d0e6c6b"
 }
