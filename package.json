@@ -1,5 +1,5 @@
 {
-  "name": "styled-components-project",
+  "name": "styled-components-project-jcrben",
   "private": true,
   "scripts": {
     "build": "wsrun -p styled-components --exclude-missing build",
