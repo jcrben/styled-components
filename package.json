@@ -97,5 +97,8 @@
   },
   "engines": {
     "node": ">=10"
+  },
+  "dependencies": {
+    "lerna": "^4.0.0"
   }
 }
