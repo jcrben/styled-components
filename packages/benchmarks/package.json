@@ -1,7 +1,7 @@
 {
   "name": "@styled-components/benchmarks",
   "private": true,
-  "version": "0.8.6",
+  "version": "0.8.7",
   "scripts": {
     "build": "webpack-cli --config webpack.config.js",
     "start": "node run-headless.js"
